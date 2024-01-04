@@ -20,7 +20,7 @@
 
 [MIT © License](https://github.com/arthursfares/helix-unger-theme/blob/main/LICENSE)
 
-### Many thanks to the create of the orignal Unger VSCode theme
+### Many thanks to the creator of the orignal Unger VSCode theme
 
 <table>
     <td align="center">
